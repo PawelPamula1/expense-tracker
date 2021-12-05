@@ -1,3 +1,5 @@
 ## Expense Tracker
 
-Track your expenses and incomes and compare each other to check if you have enough money to anything you want to buy. Live code is here: https://pawelpamula1.github.io/expense-tracker/
+Project where I wanted to practice my javascript skills. You can store here your expenses and incomes.
+
+Live code is here: https://pawelpamula1.github.io/expense-tracker/
